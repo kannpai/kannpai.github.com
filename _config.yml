@@ -11,11 +11,11 @@ highlighter: pygments
 title : Kannpai's Blog
 tagline: Site Tagline
 author : kannpai
-  name : gan
-  email : gan_pei@yahoo.com
-  github : kannpai@yahoo.com
-  twitter : arilbird
-  feedburner : feedname
+  name :Ganpei Gan
+  email :gan_pei@yahoo.com
+  github :kannpai@yahoo.com
+  twitter :arilbird
+  feedburner :feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
